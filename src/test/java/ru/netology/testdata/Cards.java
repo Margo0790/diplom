@@ -1,8 +1,6 @@
 package ru.netology.testdata;
 import lombok.AllArgsConstructor;
 import lombok.Data;
-
-public class Cards {
     @Data
     @AllArgsConstructor
     public class Cards {
