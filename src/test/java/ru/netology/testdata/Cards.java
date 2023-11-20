@@ -10,5 +10,4 @@ import lombok.Data;
         private String cardholder;
         private String cvc;
     }
-
 }
