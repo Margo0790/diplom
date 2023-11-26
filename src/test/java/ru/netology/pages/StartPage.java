@@ -10,7 +10,6 @@ import static com.codeborne.selenide.Condition.visible;
 import static com.codeborne.selenide.Selectors.*;
 import static com.codeborne.selenide.Selenide.*;
 public class StartPage {
-    public class StartPage {
         private String host = System.getProperty("test.host");
         private SelenideElement header = $(By.cssSelector("h2.heading"));
         private SelenideElement payButton = $(byText("Купить")).parent().parent();
