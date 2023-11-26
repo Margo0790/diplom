@@ -10,9 +10,9 @@
 ---
 - Успешных: 26
 - Не прошли: 22
-  ![image](https://github.com/AzizShoev/DiplomQa58/assets/125202162/a76fffcb-12c4-4836-9943-69cbe9ef6e4c)
-  ![image](https://github.com/AzizShoev/DiplomQa58/assets/125202162/03572c02-e6e2-419b-9c4c-26597c3a0ec9)
-  ![image](https://github.com/AzizShoev/DiplomQa58/assets/125202162/2f5838ec-73a8-4927-8f6b-d40e1be3252e)
+  ![image](265498076-a76fffcb-12c4-4836-9943-69cbe9ef6e4c.png)
+  ![image](265498297-03572c02-e6e2-419b-9c4c-26597c3a0ec9.png)
+  ![image](265498544-2f5838ec-73a8-4927-8f6b-d40e1be3252e.png)
 
 
 Представлен единый отчет по результатам тестов, так как результат не зависит от подключенной СУБД.
