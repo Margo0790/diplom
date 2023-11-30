@@ -7,7 +7,7 @@
 * Запланировано 48 тест-кейса
 * Автоматизировано 48 тест-кейса
 * Составлен [отчет](https://github.com/Margo0790/diplom/blob/95458c54485aaf575b54e1389c96027248e84c7f/docs/Report.md) по результату прогона тестов.
-* Созданы 8 [issue](https://github.com/AzizShoev/DiplomQa58/issues) по найденным дефектам.
+* Созданы 8 [issue]([https://github.com/AzizShoev/DiplomQa58/issues](https://github.com/Margo0790/diplom/issues) по найденным дефектам.
 
 ## Сработавшие риски
 
