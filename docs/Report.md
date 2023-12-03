@@ -11,10 +11,10 @@
 - Успешных: 26
 - Не прошли: 22
   
-  ![image](![image1](https://github.com/Margo0790/diplom/assets/125038607/a43fda6d-a9ca-4c13-8a33-1adc26741d1a)
-  ![image](![image2](https://github.com/Margo0790/diplom/assets/125038607/3dead030-99f0-497b-8f7f-9a156b572b82)
-  ![image](![image3](https://github.com/Margo0790/diplom/assets/125038607/0d6db792-4449-4d0a-a155-6b1b2fe267a1)
-  ![image](![image4](https://github.com/Margo0790/diplom/assets/125038607/9b7f544d-1857-41b0-88bc-f39246f8bf28)
+  ![image](https://github.com/Margo0790/diplom/assets/125038607/a43fda6d-a9ca-4c13-8a33-1adc26741d1a)
+  ![image](https://github.com/Margo0790/diplom/assets/125038607/3dead030-99f0-497b-8f7f-9a156b572b82)
+  ![image](https://github.com/Margo0790/diplom/assets/125038607/0d6db792-4449-4d0a-a155-6b1b2fe267a1)
+  ![image](https://github.com/Margo0790/diplom/assets/125038607/9b7f544d-1857-41b0-88bc-f39246f8bf28)
 
 
 
